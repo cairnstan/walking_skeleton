@@ -1,2 +1,2 @@
 # Walking Skeleton
-Basic frame for a full MEAN stack application. 
+Basic frame for application without a database. Utilizes Angular, Node.js, Express.js. 
